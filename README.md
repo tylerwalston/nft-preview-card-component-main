@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/tylerwalston/nft-preview-card-component-main
+- Live Site URL: https://cool-crepe-24bf32.netlify.app/
 
 ## My process
 
